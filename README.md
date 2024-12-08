@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Kacper Kafara</h1>
 
-<h3 align="center">A third‑year student of Applied Computer Science at the Lodz University of Technology, full-stack developer and DevOps intern.</h3>
+<h3 align="center">A third‑year student of Applied Computer Science at the Lodz University of Technology, full-stack developer and Junior DevOps Engineer.</h3>
 
 - 📫 How to reach me **kacperkafara18@gmail.com**
 
