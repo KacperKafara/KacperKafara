@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Kacper Kafara</h1>
 
-<h3 align="center">"In February 2025, I completed my engineering studies, and I am currently working as a Junior DevOps Engineer.</h3>
+<h3 align="center">In February 2025, I completed my engineering studies, and I am currently working as a Junior DevOps Engineer.</h3>
 
 - 📫 How to reach me **kacperkafara18@gmail.com**
 
