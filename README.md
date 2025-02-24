@@ -54,6 +54,9 @@
   <a href="https://www.terraform.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
   </a>
+  <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="argocd" width="40" height="40"/>
+  </a>
 </p>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kacperkafara&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
